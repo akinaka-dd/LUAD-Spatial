@@ -68,9 +68,9 @@
 
 ### 5. DOIT_Align_LUAD3B.py
 - Aligns mask images of Visium (red) and PhenoCycler (blue) respectively obtained in step 2 and 3 above.
-  - Mask images were scaled, translated, and rotated (affine transformations) to maximize their overlap.
+  - Mask images are scaled, translated, and rotated (affine transformations) to maximize their overlap.
   - Overlap is evaluated by their intersection over union (IoU), i.e., IoU = (Visium ∩ PhenoCycler) / (Visium ∪ PhenoCycler). 
-  - By exhaustive grid search in the neighborhood of the solution obtained above, IoU was optimized to generate the final result. 
+  - By exhaustive grid search in the neighborhood of the solution obtained above, IoU is optimized to generate the final result. 
 - Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-ALIGN/FFPE_LUAD_3_B-Visium-PhenoCycler-ALIGN.html".
 
 <table>
@@ -152,7 +152,7 @@
 #### Example of an integrated ROI (1)
 - Cell (nuclear) positions estimated by QuPath/StarDist.
   - Colors show the estimated cell types.
-  - Numbers of evey kind of cells in the ROI are profiled.
+  - Numbers of designated kind of cells in the ROI are profiled.
   - Positions of Visium spots are indicated by circles.
 <table>
 <tr>
@@ -216,8 +216,8 @@
 #### Example of an integrated ROI (2)
 - Cell (nuclear) positions estimated by QuPath/StarDist.
   - Colors show the estimated cell types.
-  - Numbers of evey kind of cells in the ROI are profiled.
-  - Positions of Visium spots are indicated by circles.  
+  - Numbers of designated kind of cells in the ROI are profiled.
+  - Positions of Visium spots are indicated by circles.
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00-celltype_spots.png">
