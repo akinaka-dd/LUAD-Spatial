@@ -151,7 +151,7 @@ DOIT_GetROI_LUAD3B.py
 
 <table>
 <tr>
-<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium_spots_he.png"></td>
+<td><img width="150px" src="FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium.png"></td>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium_spots-CDH1.png"></td>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium_spots-CD4.png"></td>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium_spots-CD8A.png"></td>
