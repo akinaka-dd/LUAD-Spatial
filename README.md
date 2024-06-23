@@ -131,7 +131,7 @@
 <td><img width="250px" src="img/roi/FFPE_LUAD_3_B-PhenoCycler-Visium-map_ext_rotated_01.png"></td>
 </tr>
 <tr>
-<td>PhenoCycler image coordinate (Visium on PhenoCycler)</td>
+<td>PhenoCycler image coordinate<br>(Visium on PhenoCycler)</td>
 <td>Visium image coordinate (PhenoCycler on Visium)</td>
 </tr>
 </table>
