@@ -8,7 +8,7 @@
   - Tested with Python 3.12.
   - Requires packages such as numpy, pandas, cv2, tifffile, depending on environment.
   - Internally invokes R scripts.
-	- Tested with R 4.3.2 and Seurat V4.4.0 (and will be compatible with v5).
+	- Tested with R 4.3.2 and Seurat v4.4.0 (and will be compatible with v5).
 - Results are stored in "FFPE_LUAD_3_B" directory in the current working directory.
 
 ``` 4d
@@ -19,7 +19,7 @@
 - Downloads and expands the datafile (LUAD3B_dat.tgz) in "dat" directory in the current working directory. 
 
 ### 2. DOIT_Visium_LUAD3B.py
-- Generates a mask of Visium tissue region using H&E stain images in the output of SpaceRanger ("dat/Visium_FFPE_LUAD_3_B/spatial").
+- Generates masks of Visium tissue region using H&E stain images in the output of SpaceRanger ("dat/Visium_FFPE_LUAD_3_B/spatial").
 - Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-Visium-MASK/FFPE_LUAD_3_B-Visium.html".
 
 <table>
@@ -41,6 +41,7 @@
 
 
 ### 3. DOIT_PhenoCycler_LUAD3B.py
+- Generate masks of PhenoCycler tissue region using fluorescence intensity in the QPTIFF data by CODEX Processor ("dat/PhenoCycler_LUAD_3_B/Experiment_LUAD_3_B.qptiff")
 
 <table>
 <tr>
