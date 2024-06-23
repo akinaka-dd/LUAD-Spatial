@@ -1,9 +1,9 @@
 # LUAD-Spatial
 Spatial omics analysis of human LUAD by Visium and PhenoCycler
 
-DOIT_LUAD3B.py
+## DOIT_LUAD3B.py
 
-DOIT_GetDATA_LUAD3B.py
+### 1. DOIT_GetDATA_LUAD3B.py
 
 DOIT_Visium_LUAD3B.py
 
@@ -144,7 +144,6 @@ DOIT_GetROI_LUAD3B.py
 <td>CD8</td>
 <td>CD20</td>
 <td>CD68</td>
-<td></td>
 </tr>
 </table>
 
@@ -204,7 +203,6 @@ DOIT_GetROI_LUAD3B.py
 <td>CD8</td>
 <td>CD20</td>
 <td>CD68</td>
-<td></td>
 </tr>
 </table>
 
