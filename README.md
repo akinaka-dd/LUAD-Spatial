@@ -135,7 +135,7 @@ DOIT_GetROI_LUAD3B.py
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_PAGE17-CD8_rgba_spots.png">
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_PAGE10-CD20_rgba_spots.png">
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_PAGE09-CD68_rgba_spots.png">
-<td><img src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_colorbar_rgba.png"> 
+<td><img width="50px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_colorbar_rgba.png"> 
 </tr>
 <tr>
 <td>DAPI</td>
@@ -157,7 +157,7 @@ DOIT_GetROI_LUAD3B.py
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI06_visium_spots-CD8A.png"></td>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI06_visium_spots-MS4A1.png"></td>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI06_visium_spots-CD68.png"></td>
-<td><img src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium_spots_colorbar.png"></td>
+<td><img width="50px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium_spots_colorbar.png"></td>
 </tr>
 <tr>
 <td>H&E stain</td>
