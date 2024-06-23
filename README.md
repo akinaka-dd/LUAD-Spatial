@@ -7,13 +7,17 @@ DOIT_GetDATA_LUAD3B.py
 
 DOIT_Visium_LUAD3B.py
 
-<img src="img/visium/FFPE_LUAD_3_B-Visium_00.png" width="200px">
+<table>
+<tr>
+<td><img src="img/visium/FFPE_LUAD_3_B-Visium_00.png" width="150px"></td>
+<td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_mask_with_hole_bgr.png", width="150px"></td>
+</tr>
+<tr>
+<td>H&E stain image</td>
+<td>Mask image</tr>
+</tr>
+</table>
 
-![Visium HE](img/visium/FFPE_LUAD_3_B-Visium_00.png=200px)
-*H&E stain image*
-
-![Mask image](img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_mask_with_hole_bgr.png=200px)
-*Mask image*
 
 DOIT_PhenoCycler_LUAD3B.py
 
