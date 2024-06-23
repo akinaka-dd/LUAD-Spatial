@@ -42,6 +42,7 @@
 
 ### 3. DOIT_PhenoCycler_LUAD3B.py
 - Generate masks of PhenoCycler tissue region using fluorescence intensity in the QPTIFF data by CODEX Processor ("dat/PhenoCycler_LUAD_3_B/Experiment_LUAD_3_B.qptiff")
+- Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-PhenoCycler-MASK/FFPE_LUAD_3_B-PhenoCycler.html".
 
 <table>
 <tr>
