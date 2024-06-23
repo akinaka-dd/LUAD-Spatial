@@ -18,7 +18,7 @@
 
 ### 2. DOIT_Visium_LUAD3B.py
 - Generates a mask of Visium tissue region using H&E stain images in the output of SpaceRanger ("dat/Visium_FFPE_LUAD_3_B/spatial").
-  - Results are browsable from FFPE_LUAD_3_B/FFPE_LUAD_3_B-Visium-MASK/FFPE_LUAD_3_B-Visium.html.
+- Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-Visium-MASK/FFPE_LUAD_3_B-Visium.html".
 
 <table>
 <tr>
