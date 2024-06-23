@@ -150,8 +150,9 @@
 </table>
 
 #### Example of an integrated ROI (1)
-##### Cell (nuclear) positions estimated by QuPath/StarDist
-- Colors show the estimated cell types
+- Cell (nuclear) positions estimated by QuPath/StarDist.
+  - Colors show the estimated cell types.
+  - Numbers of evey kind of cells in the ROI are profiled.
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-celltype_spots.png">
@@ -160,7 +161,7 @@
 </tr>
 </table>
 
-
+- Heatmap of fluorescence intensity by PhenoCycler (superimposed).
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_heatmap_spots.png">
@@ -168,6 +169,7 @@
 </tr>
 </table>
 
+- Heatmap of fluorescence intensity of an antibody by PhenoCycler.
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_PAGE01-DAPI_rgba_spots.png">
@@ -188,6 +190,7 @@
 </tr>
 </table>
 
+- Expression level of a feature/gene by Visium.
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium.png"></td>
@@ -210,7 +213,9 @@
 
 
 #### Example of an integrated ROI (2)
-
+- Cell (nuclear) positions estimated by QuPath/StarDist.
+  - Colors show the estimated cell types.
+  - Numbers of evey kind of cells in the ROI are profiled.
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00-celltype_spots.png">
@@ -219,7 +224,7 @@
 </tr>
 </table>
 
-
+- Heatmap of fluorescence intensity by PhenoCycler (superimposed).
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_heatmap_spots.png">
@@ -227,6 +232,7 @@
 </tr>
 </table>
 
+- Heatmaps of fluorescence intensity of an antibody by PhenoCycler.
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_PAGE01-DAPI_rgba_spots.png">
@@ -247,7 +253,7 @@
 </tr>
 </table>
 
-
+- Expression level of a feature/gene by Visium.
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_visium.png"></td>
