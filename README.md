@@ -6,7 +6,7 @@ Spatial omics analysis of human LUAD by Visium and PhenoCycler
 - Results are stored in FFPE_LUAD_3_B directory in the current directory.
 
 ``` 4d
-% src/DOIT_LUAD3B.py
+% [path to the src directory]/src/DOIT_LUAD3B.py
 ```
 
 ### 1. DOIT_GetDATA_LUAD3B.py
