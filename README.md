@@ -66,8 +66,9 @@ DOIT_Align_LUAD3B.py
 </tr>
 </table>
 
-
-<video controls src="https://github.com/akinaka-dd/LUAD-Spatial/assets/173239467/52cc85bb-f3b8-482d-98ca-164f7bfcb809" muted="false" width="150px"></video>
+<div>
+<video src="https://github.com/akinaka-dd/LUAD-Spatial/assets/173239467/52cc85bb-f3b8-482d-98ca-164f7bfcb809" controls="true" muted="false" width="150"></video>
+</div>
 
 DOIT_Eval_LUAD3B.py
 
