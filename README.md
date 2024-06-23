@@ -77,8 +77,8 @@ DOIT_Eval_LUAD3B.py
 <td><img src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_cor_in_tissue.png" width="200px"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Spatial correlation between Visium (MS4A1) and PhenoCycler (CD20)</td>
+<td>Quantitative correlation between Visium (MS4A1) and PhenoCycler (CD20)</td>
 </tr>
 </table>
 
