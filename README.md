@@ -4,7 +4,10 @@
 ## DOIT_LUAD3B.py
 - Python script imvoking the following DOIT-xxxx scripts (1 to 7).
   - Tested with Python 3.12.
-  - Requires packages numpy, pandas, cv2, tifffile, and so on.
+  - Requires additional packages such as numpy, pandas, cv2, tifffile, depending on environment.
+  - Internally invokes R scripts.
+	- Tested with R 4.3.2.
+	- Tested with Seurat V4.4.0 (and will be compatible with v5).
 - Results are stored in FFPE_LUAD_3_B directory in the current working directory.
 
 ``` 4d
