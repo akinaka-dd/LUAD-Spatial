@@ -73,8 +73,8 @@ DOIT_Eval_LUAD3B.py
 
 <table>
 <tr>
-<td><img src="FFPE_LUAD_3_B-MS4A1-CD20_plot_bin_01.png"></td>
-<td><img src="FFPE_LUAD_3_B-MS4A1-CD20_plot_bin_01.png"></td>
+<td><img src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_plot_bin_01.png"></td>
+<td><img src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_plot_bin_01.png"></td>
 </tr>
 <tr>
 <td></td>
