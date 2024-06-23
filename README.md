@@ -153,6 +153,7 @@
 - Cell (nuclear) positions estimated by QuPath/StarDist.
   - Colors show the estimated cell types.
   - Numbers of evey kind of cells in the ROI are profiled.
+  - Positions of Visium spots are indicated by circles.
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-celltype_spots.png">
@@ -216,6 +217,7 @@
 - Cell (nuclear) positions estimated by QuPath/StarDist.
   - Colors show the estimated cell types.
   - Numbers of evey kind of cells in the ROI are profiled.
+  - Positions of Visium spots are indicated by circles.  
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00-celltype_spots.png">
