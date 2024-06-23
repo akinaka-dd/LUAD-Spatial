@@ -2,7 +2,9 @@
 **Multimodal spatial omics analysis of human LUAD by Visium and PhenoCycler**
 
 ## DOIT_LUAD3B.py
-- A Python script imvoking the following DOIT-xxxx scripts (1 to 7).
+- A Python script integrates spatial omics data by 10x Genomics Visium and Akoya Biosciences PhenoCycler.
+  - Supposes Visium (not CytAssist) and PhenoCycler-Open (not Fusion) in the example of this repository.
+- Imvokes the following DOIT-xxxx scripts (1 to 7).
   - Tested with Python 3.12.
   - Requires packages such as numpy, pandas, cv2, tifffile, depending on environment.
   - Internally invokes R scripts.
