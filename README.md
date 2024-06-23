@@ -7,7 +7,7 @@ DOIT_GetDATA_LUAD3B.py
 
 DOIT_Visium_LUAD3B.py
 
-<table bgcolor=white border="0">
+<table border="0">
 <tr>
 <td><img src="img/visium/FFPE_LUAD_3_B-Visium_00.png" width="150px"></td>
 <td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_mask_with_hole_bgr.png", width="150px"></td>
