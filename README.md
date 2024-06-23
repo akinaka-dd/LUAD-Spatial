@@ -71,14 +71,16 @@ DOIT_Align_LUAD3B.py
 
 DOIT_Eval_LUAD3B.py
 
+Visium (MS4A1) and PhenoCycler (CD20)</td>
+
 <table>
 <tr>
 <td><img src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_plot_bin_01.png" width="200px"></td>
 <td><img src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_cor_in_tissue.png" width="200px"></td>
 </tr>
 <tr>
-<td>Spatial correlation between Visium (MS4A1) and PhenoCycler (CD20)</td>
-<td>Quantitative correlation between Visium (MS4A1) and PhenoCycler (CD20)</td>
+<td>Spatial correlation</td>
+<td>Quantitative correlation</td>
 </tr>
 </table>
 
