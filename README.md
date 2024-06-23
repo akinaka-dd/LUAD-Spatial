@@ -10,11 +10,17 @@ DOIT_Visium_LUAD3B.py
 <table border="0">
 <tr>
 <td><img src="img/visium/FFPE_LUAD_3_B-Visium_00.png" width="150px"></td>
+<td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_with_circle_bgr.png" width="150px"></td>
+<td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_bin.png" width="150px"></td>
+<td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_bin_bgr_cont.png" width="150px"></td>
 <td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_mask_with_hole_bgr.png", width="150px"></td>
 </tr>
 <tr>
-<td bgcolor="white">H&E stain image</td>
-<td>Mask image</tr>
+<td>H&E stain image</td>
+<td>Fiducial marker removal</td>
+<td>Binarization</td>
+<td>Contour extraction</td>
+<td>Mask image</td>
 </tr>
 </table>
 
