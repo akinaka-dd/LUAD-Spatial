@@ -170,3 +170,63 @@ DOIT_GetROI_LUAD3B.py
 </table>
 
 
+
+<table>
+<tr>
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00-celltype_spots.png">
+<td><img height="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00-celltype_legend.png">
+<td><img width="300px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00-celltype_barchart.png">
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_heatmap_spots.png">
+<td><img height="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00-heatmap_legend.png">
+</tr>
+</table>
+
+<table>
+<tr>
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_PAGE01-DAPI_rgba_spots.png">
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_PAGE05-E-Cadherin_rgba_spots.png">
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_PAGE03-CD4_rgba_spots.png">
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_PAGE17-CD8_rgba_spots.png">
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_PAGE10-CD20_rgba_spots.png">
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_PAGE09-CD68_rgba_spots.png">
+<td><img width="50px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_colorbar_rgba.png"> 
+</tr>
+<tr>
+<td>DAPI</td>
+<td>E-cadherin</td>
+<td>CD4</td>
+<td>CD8</td>
+<td>CD20</td>
+<td>CD68</td>
+<td></td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_visium.png"></td>
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_visium_spots-CDH1.png"></td>
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_visium_spots-CD4.png"></td>
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_visium_spots-CD8A.png"></td>
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_visium_spots-MS4A1.png"></td>
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_visium_spots-CD68.png"></td>
+<td><img width="50px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_visium_spots_colorbar.png"></td>
+</tr>
+<tr>
+<td>H&E stain</td>
+<td>CDH1</td>
+<td>CD4</td>
+<td>CD8A</td>
+<td>MS4A1</td>
+<td>CD68</td>
+</tr>
+</table>
+
+
