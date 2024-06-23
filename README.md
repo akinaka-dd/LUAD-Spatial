@@ -151,12 +151,12 @@ DOIT_GetROI_LUAD3B.py
 
 <table>
 <tr>
-<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI06_visium_spots_he.png"></td>
-<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI06_visium_spots-CDH1.png"></td>
-<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI06_visium_spots-CD4.png"></td>
-<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI06_visium_spots-CD8A.png"></td>
-<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI06_visium_spots-MS4A1.png"></td>
-<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI06_visium_spots-CD68.png"></td>
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium_spots_he.png"></td>
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium_spots-CDH1.png"></td>
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium_spots-CD4.png"></td>
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium_spots-CD8A.png"></td>
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium_spots-MS4A1.png"></td>
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium_spots-CD68.png"></td>
 <td><img width="50px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium_spots_colorbar.png"></td>
 </tr>
 <tr>
