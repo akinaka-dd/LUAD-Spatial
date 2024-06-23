@@ -49,9 +49,11 @@ Spatial omics analysis of human LUAD by Visium and PhenoCycler
 </table>
 
 
-DOIT_Normalize_LUAD3B.py
+### 4. DOIT_Normalize_LUAD3B.py
 
-DOIT_Align_LUAD3B.py
+Normalization.
+
+### 5. DOIT_Align_LUAD3B.py
 
 <table>
 <tr>
@@ -73,7 +75,7 @@ DOIT_Align_LUAD3B.py
 <video controls width="150" muted="false" src="https://github.com/akinaka-dd/LUAD-Spatial/assets/173239467/52cc85bb-f3b8-482d-98ca-164f7bfcb809"></video>
 </div>
 
-DOIT_Eval_LUAD3B.py
+### 6. DOIT_Eval_LUAD3B.py
 
 Visium (MS4A1) and PhenoCycler (CD20)</td>
 
@@ -90,7 +92,7 @@ Visium (MS4A1) and PhenoCycler (CD20)</td>
 	
 	DOIT_Clustering_LUAD3B.py
 
-DOIT_GetROI_LUAD3B.py
+### 7. DOIT_GetROI_LUAD3B.py
 
 <table>
 <tr>
@@ -114,6 +116,7 @@ DOIT_GetROI_LUAD3B.py
 </tr>
 </table>
 
+#### Example of ROI (1)
 
 <table>
 <tr>
@@ -151,7 +154,6 @@ DOIT_GetROI_LUAD3B.py
 </tr>
 </table>
 
-
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium.png"></td>
@@ -173,6 +175,7 @@ DOIT_GetROI_LUAD3B.py
 </table>
 
 
+#### Example of ROI (2)
 
 <table>
 <tr>
