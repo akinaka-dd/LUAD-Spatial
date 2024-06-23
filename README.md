@@ -114,7 +114,7 @@ DOIT_GetROI_LUAD3B.py
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-celltype_spots.png">
-<td><img height="200px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-celltype_legend.png">
+<td><img height="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-celltype_legend.png">
 <td><img width="200px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-celltype_barchart.png">
 </tr>
 </table>
@@ -123,7 +123,7 @@ DOIT_GetROI_LUAD3B.py
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_heatmap_spots.png">
-<td><img hieght="200px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-heatmap_legend.png">
+<td><img height="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-heatmap_legend.png">
 </tr>
 </table>
 
