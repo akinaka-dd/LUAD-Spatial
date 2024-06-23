@@ -9,11 +9,11 @@ DOIT_Visium_LUAD3B.py
 
 <table>
 <tr>
-<td><img src="img/visium/FFPE_LUAD_3_B-Visium_00.png" width="150px"></td>
-<td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_with_circle_bgr.png" width="140px"></td>
-<td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_bin.png" width="150px"></td>
-<td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_bin_bgr_cont.png" width="150px"></td>
-<td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_mask_with_hole_bgr.png", width="150px"></td>
+<td><img src="img/visium/FFPE_LUAD_3_B-Visium_00.png"></td>
+<td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_with_circle_bgr.png"></td>
+<td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_bin.png"></td>
+<td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_bin_bgr_cont.png"></td>
+<td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_mask_with_hole_bgr.png"></td>
 </tr>
 <tr>
 <td>H&E stain image</td>
@@ -28,7 +28,6 @@ DOIT_Visium_LUAD3B.py
 DOIT_PhenoCycler_LUAD3B.py
 
 <table>
-
 <tr>
 <td><img src="img/phenocycler/FFPE_LUAD_3_B-PhenoCycler-MULTI_bgr_bb_01.png"></td>
 <td><img src="img/phenocycler/FFPE_LUAD_3_B-PhenoCycler-MULTI_gray_nega_01.png"></td>
@@ -49,6 +48,20 @@ DOIT_PhenoCycler_LUAD3B.py
 DOIT_Normalize_LUAD3B.py
 
 DOIT_Align_LUAD3B.py
+
+<table>
+<tr>
+<td><img src="img/align/" ></t>
+</tr>
+<tr>
+<td></td>
+<td>Scaling</td>
+<td>Translation</td>
+<td>Rotation</td>
+<td>Optimization</td>
+</tr>
+</table>
+
 
 DOIT_Eval_LUAD3B.py
 
