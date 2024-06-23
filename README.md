@@ -115,7 +115,7 @@ DOIT_GetROI_LUAD3B.py
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-celltype_spots.png">
 <td><img height="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-celltype_legend.png">
-<td><img width="200px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-celltype_barchart.png">
+<td><img width="300px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-celltype_barchart.png">
 </tr>
 </table>
 
