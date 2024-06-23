@@ -75,8 +75,8 @@ Visium (MS4A1) and PhenoCycler (CD20)</td>
 
 <table>
 <tr>
-<td><img src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_plot_bin_01.png" width="200px"></td>
-<td><img src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_cor_in_tissue.png" width="200px"></td>
+<td><img width="200px" src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_plot_bin_01.png"></td>
+<td><img width="200px" src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_cor_in_tissue.png"></td>
 </tr>
 <tr>
 <td>Spatial correlation</td>
@@ -100,6 +100,16 @@ DOIT_GetROI_LUAD3B.py
 </table>
 
 
+<table>
+<tr>
+<td><img width="200px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-map0_01.png"></td>
+<td><img width="200px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-map.png"></td>
+</tr>
+<tr>
+<td>A region in the PhenoCycler coordinate</td>
+<td>Projection onto the Visium coordinate</td>
+</tr>
+</table>
 
 
 
