@@ -13,7 +13,7 @@ DOIT_Visium_LUAD3B.py
 <td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_mask_with_hole_bgr.png", width="150px"></td>
 </tr>
 <tr>
-<td>H&E stain image</td>
+<td><center>H&E stain image</center></td>
 <td>Mask image</tr>
 </tr>
 </table>
