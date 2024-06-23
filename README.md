@@ -19,7 +19,7 @@
 - Downloads and expands the datafile (LUAD3B_dat.tgz) in "dat" directory in the current working directory. 
 
 ### 2. DOIT_Visium_LUAD3B.py
-- Generates masks of Visium tissue region using H&E stain images in the output of SpaceRanger ("dat/Visium_FFPE_LUAD_3_B/spatial").
+- Generates mask images of Visium tissue region using H&E stain images in the output of SpaceRanger ("dat/Visium_FFPE_LUAD_3_B/spatial").
 - Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-Visium-MASK/FFPE_LUAD_3_B-Visium.html".
 
 <table>
@@ -41,7 +41,7 @@
 
 
 ### 3. DOIT_PhenoCycler_LUAD3B.py
-- Generate masks of PhenoCycler tissue region using fluorescence intensity in the QPTIFF data by CODEX Processor ("dat/PhenoCycler_LUAD_3_B/Experiment_LUAD_3_B.qptiff")
+- Generate mask images of PhenoCycler tissue region using fluorescence intensity in the QPTIFF data by CODEX Processor ("dat/PhenoCycler_LUAD_3_B/Experiment_LUAD_3_B.qptiff")
 - Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-PhenoCycler-MASK/FFPE_LUAD_3_B-PhenoCycler.html".
 
 <table>
@@ -64,9 +64,15 @@
 
 ### 4. DOIT_Normalize_LUAD3B.py
 - Normalizes Visium expression levels by SCTransform normalization (version 1).
+  - Internally invokes an R script (exec_preprocess.r).
 - Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-Visium-NORM/FFPE_LUAD_3_B-Visium-NORM.html".
 
 ### 5. DOIT_Align_LUAD3B.py
+- Aligns mask images of Visium (red) and PhenoCycler (blue) respectively obtained in step 2 and 3 above.
+  - Mask images were scaled, translated, and rotated to maximize their overlap.
+  - Overlap is evaluated by their intersection over union (IoU), i.e., IoU = (Visium ∩ PhenoCycler) / (Visium ∪ PhenoCycler). 
+  - By exhaustive grid search in the neighborhood of the solution obtained above, IoU was optimized to generate the final result. 
+- Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-ALIGN/FFPE_LUAD_3_B-Visium-PhenoCycler-ALIGN.html".
 
 <table>
 <tr>
