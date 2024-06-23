@@ -4,7 +4,7 @@
 ## DOIT_LUAD3B.py
 - A Python script integrates spatial omics data by 10x Genomics Visium and Akoya Biosciences PhenoCycler.
   - Supposes Visium (not CytAssist) and PhenoCycler-Open (not Fusion) in the example of this repository.
-- Imvokes the following DOIT-xxxx scripts (1 to 7).
+- Imvokes the following DOIT-xxxx scripts (1 to 8).
   - Tested with Python 3.12.
   - Requires packages such as numpy, pandas, cv2, tifffile, depending on environment.
   - Internally invokes R scripts.
@@ -62,7 +62,7 @@
 </table>
 
 ### 4. DOIT_Normalize_LUAD3B.py
-- Normalizes Visium expression levels by SCTransform normalization (version 1).
+- Normalizes Visium expression levels by SCTransform normalization (version 1) provided by Seurat.
   - Internally invokes an R script (exec_preprocess.r).
 - Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-Visium-NORM/FFPE_LUAD_3_B-Visium-NORM.html".
 
@@ -113,9 +113,12 @@
 </tr>
 </table>
 	
-	DOIT_Clustering_LUAD3B.py
+### 7. DOIT_Clustering_LUAD3B.py
+- Carries out clustering of Visium spots by Seurat.
+  - Internally invokes an R script (exec_clustering.r).
+- Carries out dimensionality reduction and extracts spatially variable features.
 
-### 7. DOIT_GetROI_LUAD3B.py
+### 8. DOIT_GetROI_LUAD3B.py
 
 <table>
 <tr>
