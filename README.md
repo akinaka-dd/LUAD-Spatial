@@ -120,7 +120,7 @@
 - Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-Visium-CLST/FFPE_LUAD_3_B-Visium-CLST.html".
 
 ### 8. DOIT_GetROI_LUAD3B.py
-- Extracts an aligned/integrated region of interest (ROI) image.
+- Extracts an aligned/integrated region of interest (ROI) image based on mutual coordinate mapping.
 - Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-ROI/FFPE_LUAD_3_B-ROI.html".
 
 #### Mutual coordinate mapping
@@ -149,8 +149,9 @@
 </tr>
 </table>
 
-#### Example of ROI (1)
-
+#### Example of an integrated ROI (1)
+##### Cell (nuclear) positions estimated by QuPath/StarDist
+- Colors show the estimated cell types
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-celltype_spots.png">
@@ -208,7 +209,7 @@
 </table>
 
 
-#### Example of ROI (2)
+#### Example of an integrated ROI (2)
 
 <table>
 <tr>
