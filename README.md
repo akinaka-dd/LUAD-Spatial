@@ -13,19 +13,10 @@ DOIT_Visium_LUAD3B.py
 <td><img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_mask_with_hole_bgr.png", width="150px"></td>
 </tr>
 <tr>
-<td>H&E stain image</td>
+<td bgcolor="white">H&E stain image</td>
 <td>Mask image</tr>
 </tr>
 </table>
-
-|AAA|BBB|CCC|
-|---|---|---|
-|XXX|YYY|ZZZ|
-
-|<img src="img/visium/FFPE_LUAD_3_B-Visium_00.png" width="150px">|<img src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_mask_with_hole_bgr.png", width="150px">|
-|---|---|
-|H&E stain image|Mask image|
-
 
 
 DOIT_PhenoCycler_LUAD3B.py
