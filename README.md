@@ -169,7 +169,7 @@
 </tr>
 </table>
 
-- Heatmap of fluorescence intensity of an antibody by PhenoCycler.
+- Heatmaps of fluorescence intensity of antibodies by PhenoCycler.
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_PAGE01-DAPI_rgba_spots.png">
@@ -190,7 +190,7 @@
 </tr>
 </table>
 
-- Expression level of a feature/gene by Visium.
+- Heatmaps of expression level of features/genes by Visium.
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_visium.png"></td>
@@ -232,7 +232,7 @@
 </tr>
 </table>
 
-- Heatmaps of fluorescence intensity of an antibody by PhenoCycler.
+- Heatmaps of fluorescence intensity of antibodies by PhenoCycler.
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_PAGE01-DAPI_rgba_spots.png">
@@ -253,7 +253,7 @@
 </tr>
 </table>
 
-- Expression level of a feature/gene by Visium.
+- Heatmaps of expression level of features/genes by Visium.
 <table>
 <tr>
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI00_visium.png"></td>
