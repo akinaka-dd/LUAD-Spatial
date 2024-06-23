@@ -73,8 +73,8 @@ DOIT_Eval_LUAD3B.py
 
 <table>
 <tr>
-<td><img src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_plot_bin_01.png" width="300px"></td>
-<td><img src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_cor_in_tissue.png" width="300px"></td>
+<td><img src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_plot_bin_01.png" width="200px"></td>
+<td><img src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_cor_in_tissue.png" width="200px"></td>
 </tr>
 <tr>
 <td></td>
