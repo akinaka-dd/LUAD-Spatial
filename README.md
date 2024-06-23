@@ -123,7 +123,7 @@
 - Extracts an aligned/integrated region of interest (ROI) image.
 - Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-ROI/FFPE_LUAD_3_B-ROI.html".
 
-#### Mutual coordinate transformation
+#### Mutual coordinate mapping
 
 <table>
 <tr>
@@ -131,8 +131,8 @@
 <td><img width="250px" src="img/roi/FFPE_LUAD_3_B-PhenoCycler-Visium-map_ext_rotated_01.png"></td>
 </tr>
 <tr>
-<td>Visium image aligned to PhenoCycler image</td>
-<td>PhenoCycler image aligned to Visium image</td>
+<td>PhenoCycler image coordinate (Visium on PhenoCycler)</td>
+<td>Visium image coordinate (PhenoCycler on Visium)</td>
 </tr>
 </table>
 
