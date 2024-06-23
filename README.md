@@ -68,7 +68,7 @@
 
 ### 5. DOIT_Align_LUAD3B.py
 - Aligns mask images of Visium (red) and PhenoCycler (blue) respectively obtained in step 2 and 3 above.
-  - Mask images were scaled, translated, and rotated to maximize their overlap.
+  - Mask images were scaled, translated, and rotated (affine transformations) to maximize their overlap.
   - Overlap is evaluated by their intersection over union (IoU), i.e., IoU = (Visium ∩ PhenoCycler) / (Visium ∪ PhenoCycler). 
   - By exhaustive grid search in the neighborhood of the solution obtained above, IoU was optimized to generate the final result. 
 - Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-ALIGN/FFPE_LUAD_3_B-Visium-PhenoCycler-ALIGN.html".
@@ -119,6 +119,9 @@
 - Carries out dimensionality reduction and extracts spatially variable features.
 
 ### 8. DOIT_GetROI_LUAD3B.py
+- Extracts an aligned/integrated region of interest (ROI) image.
+
+#### Mutual coordinate transformation
 
 <table>
 <tr>
@@ -131,6 +134,7 @@
 </tr>
 </table>
 
+#### 
 <table>
 <tr>
 <td><img width="200px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-map0_01.png"></td>
