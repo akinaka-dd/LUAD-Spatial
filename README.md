@@ -88,6 +88,13 @@ DOIT_Clustering_LUAD3B.py
 
 DOIT_GetROI_LUAD3B.py
 
+<table>
+<tr>
+<td><img src="FFPE_LUAD_3_B-PhenoCycler-Visium-map_ext_01.png"></td>
+<td><img src="FFPE_LUAD_3_B-PhenoCycler-Visium-map_ext_rotated_01.png"></td>
+</tr>
+</table>
+
 
 
 
