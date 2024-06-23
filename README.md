@@ -2,19 +2,19 @@
 **Multimodal spatial omics analysis of human LUAD by Visium and PhenoCycler**
 
 ## DOIT_LUAD3B.py
-- Python script imvoking the following DOIT-xxxx scripts (1 to 7).
+- A Python script imvoking the following DOIT-xxxx scripts (1 to 7).
   - Tested with Python 3.12.
-  - Requires additional packages such as numpy, pandas, cv2, tifffile, depending on environment.
+  - Requires packages such as numpy, pandas, cv2, tifffile, depending on environment.
   - Internally invokes R scripts.
-	- Tested with R 4.3.2.
-	- Tested with Seurat V4.4.0 (and will be compatible with v5).
-- Results are stored in FFPE_LUAD_3_B directory in the current working directory.
+	- Tested with R 4.3.2 and Seurat V4.4.0 (and will be compatible with v5).
+- Results are stored in "FFPE_LUAD_3_B" directory in the current working directory.
 
 ``` 4d
 % path_to_the_src_directory/src/DOIT_LUAD3B.py
 ```
 
 ### 1. DOIT_GetDATA_LUAD3B.py
+- Downloads and expands the datafile (LUAD3B_dat.tgz) in "dat" directory in the current working directory. 
 
 ### 2. DOIT_Visium_LUAD3B.py
 
