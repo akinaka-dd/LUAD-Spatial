@@ -76,15 +76,15 @@ Visium (MS4A1) and PhenoCycler (CD20)</td>
 <table>
 <tr>
 <td><img width="200px" src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_plot_bin_01.png"></td>
-<td><img width="200px" src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_cor_in_tissue.png"></td>
+<td><![Alt Text](URL )  width="200px" src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_cor_in_tissue.png"></td>
 </tr>
 <tr>
 <td>Spatial correlation</td>
 <td>Quantitative correlation</td>
 </tr>
 </table>
-
-DOIT_Clustering_LUAD3B.py
+	
+	DOIT_Clustering_LUAD3B.py
 
 DOIT_GetROI_LUAD3B.py
 
@@ -99,7 +99,6 @@ DOIT_GetROI_LUAD3B.py
 </tr>
 </table>
 
-
 <table>
 <tr>
 <td><img width="200px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-map0_01.png"></td>
@@ -112,4 +111,13 @@ DOIT_GetROI_LUAD3B.py
 </table>
 
 
+<table>
+<tr>
+<td><img width="200px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-celltype_spots.png">
+<td><img width="200px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-celltype_legend.png">
+<td><img width="200px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05-celltype_barchart.png">
+</tr>
+</table>
 
+
+	
