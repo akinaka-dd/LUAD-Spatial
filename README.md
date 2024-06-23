@@ -116,10 +116,12 @@
 ### 7. DOIT_Clustering_LUAD3B.py
 - Carries out clustering of Visium spots by Seurat.
   - Internally invokes an R script (exec_clustering.r).
-- Carries out dimensionality reduction and extracts spatially variable features.
+  - Carries out dimensionality reduction and extracts spatially variable features.
+- Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-Visium-CLST/FFPE_LUAD_3_B-Visium-CLST.html".
 
 ### 8. DOIT_GetROI_LUAD3B.py
 - Extracts an aligned/integrated region of interest (ROI) image.
+- Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-ROI/FFPE_LUAD_3_B-ROI.html".
 
 #### Mutual coordinate transformation
 
