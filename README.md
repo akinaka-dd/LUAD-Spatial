@@ -136,6 +136,7 @@
 </tr>
 </table>
 
+#### Example of projection of a ROI in PhenoCycler image onto Visium image
 #### 
 <table>
 <tr>
