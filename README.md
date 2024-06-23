@@ -3,7 +3,7 @@ Spatial omics analysis of human LUAD by Visium and PhenoCycler
 
 ## DOIT_LUAD3B.py
 - Executes the following DOIT-xxxx scripts (1 to 7).
-- Results are stored in FFPE_LUAD_3_B directory in the current directory.
+- Results are stored in FFPE_LUAD_3_B directory in the current working directory.
 
 ``` 4d
 % path_to_the_src_directory/src/DOIT_LUAD3B.py
