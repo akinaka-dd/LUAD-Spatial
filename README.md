@@ -63,8 +63,8 @@
 
 
 ### 4. DOIT_Normalize_LUAD3B.py
-
-Normalization.
+- Normalizes Visium expression levels by SCTransform normalization (version 1).
+- Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-Visium-NORM/FFPE_LUAD_3_B-Visium-NORM.html".
 
 ### 5. DOIT_Align_LUAD3B.py
 
