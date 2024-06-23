@@ -152,7 +152,7 @@
 #### Example of an integrated ROI (1)
 - Cell (nuclear) positions estimated by QuPath/StarDist.
   - Colors show the estimated cell types.
-  - Numbers of designated kind of cells in the ROI are profiled.
+  - Cell number of each type in the ROI is profiled.
   - Positions of Visium spots are indicated by circles.
 <table>
 <tr>
@@ -216,7 +216,7 @@
 #### Example of an integrated ROI (2)
 - Cell (nuclear) positions estimated by QuPath/StarDist.
   - Colors show the estimated cell types.
-  - Numbers of designated kind of cells in the ROI are profiled.
+  - Cell number of each type in the ROI is profiled.
   - Positions of Visium spots are indicated by circles.
 <table>
 <tr>
