@@ -66,8 +66,7 @@ DOIT_Align_LUAD3B.py
 </tr>
 </table>
 
-![alignment](img/align/FFPE_LUAD_3_B_transition_wh_200.mp4)
-
+<div><video controls src="img/align/FFPE_LUAD_3_B_transition_wh_200.mp4" muted="false"></video></div>
 
 DOIT_Eval_LUAD3B.py
 
