@@ -132,7 +132,7 @@
 </tr>
 <tr>
 <td>PhenoCycler image coordinate<br>(Visium on PhenoCycler)</td>
-<td>Visium image coordinate (PhenoCycler on Visium)</td>
+<td>Visium image coordinate<br>(PhenoCycler on Visium)</td>
 </tr>
 </table>
 
