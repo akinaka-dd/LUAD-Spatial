@@ -1,5 +1,5 @@
 # LUAD-Spatial
-Spatial omics analysis of human LUAD by Visium and PhenoCycler
+**Multimodal spatial omics analysis of human LUAD by Visium and PhenoCycler**
 
 ## DOIT_LUAD3B.py
 - Executes the following DOIT-xxxx scripts (1 to 7).
