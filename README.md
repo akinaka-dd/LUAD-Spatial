@@ -99,7 +99,8 @@
   - Spatial and quantitative correlations are evaluated.
 - Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-EVAL/FFPE_LUAD_3_B-EVAL.html".
   
-Comparison between MS4A1 gene expression by Visium and CD20 antibody fluorescence intensity by PhenoCycler.
+### Example of comparison
+- MS4A1 gene expression by Visium and CD20 antibody fluorescence intensity by PhenoCycler.
 
 <table>
 <tr>
