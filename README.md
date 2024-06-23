@@ -94,8 +94,12 @@
 </div>
 
 ### 6. DOIT_Eval_LUAD3B.py
-
-Visium (MS4A1) and PhenoCycler (CD20)</td>
+- Evalutes correlation between Visium gene expression level and PhenoCycler antibody fluorescence intensity.
+  - In circular regions corresponding to Visium spots average of fluorescence intensities are calculated. 
+  - Spatial and quantitative correlations are evaluated.
+- Results are browsable from "FFPE_LUAD_3_B/FFPE_LUAD_3_B-EVAL/FFPE_LUAD_3_B-EVAL.html".
+  
+Comparison between MS4A1 gene expression by Visium and CD20 antibody fluorescence intensity by PhenoCycler.
 
 <table>
 <tr>
