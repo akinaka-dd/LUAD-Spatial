@@ -134,7 +134,7 @@ DOIT_GetROI_LUAD3B.py
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_PAGE03-CD4_rgba_spots.png">
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_PAGE17-CD8_rgba_spots.png">
 <td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_PAGE10-CD20_rgba_spots.png">
-<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_PAGE10-CD68_rgba_spots.png">
+<td><img width="150px" src="img/roi/FFPE_LUAD_3_B-Visium-PhenoCycler_MULTI-ROI05_PAGE09-CD68_rgba_spots.png">
 </tr>
 <tr>
 <td>DAPI</td>
