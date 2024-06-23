@@ -61,7 +61,6 @@
 </tr>
 </table>
 
-
 ### 4. DOIT_Normalize_LUAD3B.py
 - Normalizes Visium expression levels by SCTransform normalization (version 1).
   - Internally invokes an R script (exec_preprocess.r).
@@ -101,7 +100,7 @@ Visium (MS4A1) and PhenoCycler (CD20)</td>
 <table>
 <tr>
 <td><img width="200px" src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_plot_bin_01.png"></td>
-<td><![Alt Text](URL )  width="200px" src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_cor_in_tissue.png"></td>
+<td><img width="200px" src="img/eval/FFPE_LUAD_3_B-MS4A1-CD20_cor_in_tissue.png"></td>
 </tr>
 <tr>
 <td>Spatial correlation</td>
