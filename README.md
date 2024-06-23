@@ -51,7 +51,11 @@ DOIT_Align_LUAD3B.py
 
 <table>
 <tr>
-<td><img src="img/align/" ></t>
+<td><img src="img/align/FFPE_LUAD_3_B_init_wh.png" ></t>
+<td><img src="img/align/FFPE_LUAD_3_B_zoom_wh.png"></td>
+<td><img src="img/align/FFPE_LUAD_3_B_shift_wh.png"></td>
+<td><img src="img/align/FFPE_LUAD_3_B_rotate_wh.png"></td>
+<td><img src="img/align/FFPE_LUAD_3_B_opt_wh.png"></td>
 </tr>
 <tr>
 <td></td>
@@ -61,6 +65,8 @@ DOIT_Align_LUAD3B.py
 <td>Optimization</td>
 </tr>
 </table>
+
+<img src="img/align/FFPE_LUAD_3_B_transition_wh_200.mp4">
 
 
 DOIT_Eval_LUAD3B.py
