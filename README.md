@@ -5,7 +5,7 @@ Spatial omics analysis of human LUAD by Visium and PhenoCycler
 
 ### 1. DOIT_GetDATA_LUAD3B.py
 
-DOIT_Visium_LUAD3B.py
+### 2. DOIT_Visium_LUAD3B.py
 
 <table>
 <tr>
@@ -25,7 +25,7 @@ DOIT_Visium_LUAD3B.py
 </table>
 
 
-DOIT_PhenoCycler_LUAD3B.py
+### 3. DOIT_PhenoCycler_LUAD3B.py
 
 <table>
 <tr>
