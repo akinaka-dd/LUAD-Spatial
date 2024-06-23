@@ -93,6 +93,10 @@ DOIT_GetROI_LUAD3B.py
 <td><img src="img/roi/FFPE_LUAD_3_B-PhenoCycler-Visium-map_ext_01.png"></td>
 <td><img src="img/roi/FFPE_LUAD_3_B-PhenoCycler-Visium-map_ext_rotated_01.png"></td>
 </tr>
+<tr>
+<td>Visium on PhenoCycler</td>
+<td>PhenoCycler on Visium</td>
+</tr>
 </table>
 
 
