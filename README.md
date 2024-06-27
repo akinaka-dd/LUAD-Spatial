@@ -24,11 +24,11 @@
 
 <table>
 <tr>
-<td><img width="200px" src="img/visium/FFPE_LUAD_3_B-Visium_00.png"></td>
-<td><img width="200px" src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_with_circle_bgr.png"></td>
-<td><img width="200px" src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_bin.png"></td>
-<td><img width="200px" src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_bin_bgr_cont.png"></td>
-<td><img width="200px" src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_mask_with_hole_bgr.png"></td>
+<td><img width="200" src="img/visium/FFPE_LUAD_3_B-Visium_00.png"></td>
+<td><img width="200" src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_with_circle_bgr.png"></td>
+<td><img width="200" src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_bin.png"></td>
+<td><img width="200" src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_bin_bgr_cont.png"></td>
+<td><img width="200" src="img/visium/FFPE_LUAD_3_B-Visium_tr_gray_without_circle_nega_mask_with_hole_bgr.png"></td>
 </tr>
 <tr>
 <td>H&E stain image</td>
